@@ -14,12 +14,12 @@ The image dataset used here has been taken from the following web site.
 Sabine Taschner-Mandl, M. Ambros 1Peter F. Ambros,Beiske 2Allan Hanbury,
 Doerr,Weiss,Berneder, Magdalena Ambros,Eva Bozsaky
 
-# Description of the Biostudies dataset S-BSST265
-# Title: An annotated fluorescence image dataset for training nuclear segmentation methods
-# The dataset is assigned with an open data license (CC0)
-# Author: Florian Kromp, 15.04.2020
-# Children's Cancer Research Institute, Vienna, Austria
-# florian.kromp@ccri.at
+Description of the Biostudies dataset S-BSST265
+Title: An annotated fluorescence image dataset for training nuclear segmentation methods
+The dataset is assigned with an open data license (CC0)
+Author: Florian Kromp, 15.04.2020
+Children's Cancer Research Institute, Vienna, Austria
+florian.kromp@ccri.at
 </pre>
 <pre>
 https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BSST265
