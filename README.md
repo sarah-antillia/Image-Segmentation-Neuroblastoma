@@ -277,6 +277,12 @@ We have also tried to infer the segmented region for
 images_dir    = "./test/images" 
 </pre> dataset defined in <b>train_eval_infer.config</b>,
  by using our Pretrained Neuroblastoma UNet Model.<br>
+This <b>./test/images</b> dataset has just been taken from the original <b>groundtruth_svgs</b> folder, which contains
+18 jpg files of 1280x1024 pixel size.
+<pre>
+./S-BSST265/dataset
+├─groundtruth_svgs
+</pre>
 Please move to ./projects/Neuroblastoma/ directory, and run the following bat file.<br>
 <pre>
 >3.infer.bat
