@@ -87,7 +87,7 @@ The <b>S-BSST265/dataset</b> has the following folder structure.<br>
 └─visualized_singlecell_groundtruth
 </pre>
 For example, <b>groundtruth_svgs</b> folder contains SVG-Files for each annotated masks and corresponding raw image in JPEG format.
-It contains the files corresponding the following categories.<br>
+It contains the files corresponding to the following categories.<br>
 <pre>
 ├─Ganglioneuroblastoma
 ├─Neuroblastoma
@@ -99,7 +99,7 @@ It contains the files corresponding the following categories.<br>
 3.2 Create base dataset
 </h3>
 By using Python script <a href="./projects/Neuroblastoma/generator/create_base_dataset.py">create_base_dataset.py</a>,
-we have created jpg <b>Nuclei_base</b> dataset from <b>groundtruth_svgs</b> dataset.<br> 
+we have created jpg images and masks <b>Nuclei_base</b> dataset from <b>groundtruth_svgs</b> dataset.<br> 
 <pre>
 ./Nuclei_base
 ├─Ganglioneuroblastoma
