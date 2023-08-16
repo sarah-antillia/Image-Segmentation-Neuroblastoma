@@ -98,7 +98,8 @@ It contains the files corresponding the following categories.<br>
 <h3>
 3.2 Create base dataset
 </h3>
-We have created jpg <b>Nuclei_base</b> dataset from <b>groundtruth_svgs</b> dataset.<br> 
+By using Python script <a href="./projects/Neuroblastoma/generator/create_base_dataset.py">create_base_dataset.py</a>,
+we have created jpg <b>Nuclei_base</b> dataset from <b>groundtruth_svgs</b> dataset.<br> 
 <pre>
 ./Nuclei_base
 ├─Ganglioneuroblastoma
