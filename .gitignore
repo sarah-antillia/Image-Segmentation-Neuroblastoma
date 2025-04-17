@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+
+# 2025/04/17
+dataset/
+projects/*/*/models/
+projects/*/*/epoch_change_infer/
+
 # Distribution / packaging
 .Python
 build/
